@@ -1,3 +1,0 @@
-[submodule "deps/agent"]
-	path = deps/agent
-	url = https://github.com/hsfl/cosmosv5-agent.git
